@@ -6,4 +6,4 @@ dengan 3 digit NIM terakhir 019
 
 Disini saya ingin memberikan file tugas alpro dari scratch dan juga program python
 
-yang dibuat pada video youtube dengan link : 
+yang dibuat pada video youtube dengan link : https://youtu.be/IOnC1VRwlJk
